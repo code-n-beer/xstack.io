@@ -1,0 +1,24 @@
+body {
+    background-color: #2C3E50;
+}
+
+.jumbotron {
+    margin-top: 5%;
+    background-color: #2C3E50;
+    color: #ECF0F1;
+    height: 100%;
+    text-align: center;
+}
+
+.symbols {
+    color: rgb(170,70,48);
+    font-size: 3em;
+}
+
+#stack-one {
+    color: #00B16A;
+}
+
+#arrows {
+    color: #F5D76E;
+}
