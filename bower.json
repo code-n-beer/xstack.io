@@ -1,0 +1,26 @@
+{
+  "name": "xstack.io",
+  "version": "0.0.1",
+  "homepage": "http://xstack.io",
+  "authors": [
+    "Juuso Strömberg <juuso.stromberg@gmail.com>",
+    "Olli Vanhoja <olli.vanhoja@gmail.com>"
+  ],
+  "description": "Full Stack. Reimagined.",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.3.0",
+    "bootstrap": "~3.3.4"
+  }
+}
