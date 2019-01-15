@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "index.html", "use": "@now/static" },
+    { "src": "style.css", "use": "@now/static" }
+  ],
+  "alias": [
+    "xstack.io",
+    "www.xstack.io"
+  ]
+}

@@ -2,5 +2,5 @@
 # xstack.io
 
     npm install -g now now-serve
-    ns
-    now alias set https://ns-XYZ.now.sh/ xstack.io
+    now
+    now alias
